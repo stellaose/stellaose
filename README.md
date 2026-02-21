@@ -4,7 +4,7 @@ My name is **Stella Oseyomon** and I am a full stack developer currently working
 
 - 🔭 I’m currently working mainly on React-Typescript, Next.js NodeJS and open-source projects. 
 - 🌱 I’m currently taking courses on Docker and Kubernetes. Looking forward to getting AWS certified as soo as possible.
-- 💻 Languages: Next.JS, React, NodeJS and TypeScript
+- 💻 Languages/Tools/Frameworks: Next.JS, React, NodeJS, Javascript, Nest.js and TypeScript
 - 👯 I’m looking to collaborate on more open-source projects. My contributions so far 🚀
 - 💬 Ask me about React, TypeScript, NodeJS and fashion😜
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/stella-oseyomon/)
